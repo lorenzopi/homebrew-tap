@@ -1,8 +1,8 @@
 class Jockey < Formula
   desc "TUI that orchestrates Codex, Claude Code and Grok coding agents"
   homepage "https://github.com/lorenzopi/jockey"
-  url "https://github.com/lorenzopi/jockey/archive/refs/tags/v0.1.4.tar.gz"
-  sha256 "1bc56c1a2932f2a1d30f2a8333eb58af4006ad99f5f1c4dbd13f1608c94615bd"
+  url "https://github.com/lorenzopi/jockey/archive/refs/tags/v0.1.5.tar.gz"
+  sha256 "b0312c6871e9c1e801aaf2322461425ef29704b7c124c535aaef575ac21ea416"
   license "MIT"
   head "https://github.com/lorenzopi/jockey.git", branch: "main"
 
