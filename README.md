@@ -1,7 +1,7 @@
-# homebrew-jockey
+# homebrew-tap
 
-Homebrew tap for [jockey](https://github.com/lorenzopi/jockey).
+Homebrew formulae by lorenzopi.
 
 ```sh
-brew install lorenzopi/jockey/jockey
+brew install lorenzopi/tap/jockey
 ```
